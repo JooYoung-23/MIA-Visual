@@ -26,3 +26,5 @@ It will be written in addition to Matplob OpenSource, so installing the Matplob 
 
 License : Apache License 2.0
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
