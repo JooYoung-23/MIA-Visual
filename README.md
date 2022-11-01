@@ -20,7 +20,7 @@ The difference from the existing model performance visualization is automation. 
 
 # 2. How to start a project
 
-It will be written in addition to Matplob OpenSource, so installing the Matplob library is essential to use this project.
+It will be written in addition to Matplotlib OpenSource, so installing the Matplotlib library is essential to use this project.
 
 # 3. license information
 
@@ -29,6 +29,7 @@ License : Apache License 2.0
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=black"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/42-000000?style=flat-square&logo=42&logoColor=black"/>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
