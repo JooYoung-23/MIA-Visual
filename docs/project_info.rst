@@ -29,7 +29,8 @@ Projet_info page
   classification model performance  evaluation indicators’, it is possible to help intuitively understand each evaluation  indicator and   to help  select the
   appropriate model.
   
-**III.Features List**
+**III.  Features List**
+
   Based on original open source, we would like to add the following features. The features are described in the order in which we are planning to develop.
   1.	Visualize the learning curve to validate model complexity
   2.	Visualize the machine learning step-by-step weight update process
