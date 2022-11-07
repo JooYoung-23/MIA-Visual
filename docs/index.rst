@@ -11,10 +11,12 @@ Welcome to MIA-Visual's documentation!
 ======================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 2 
    :caption: Page:
    
-   project_info
+   About the Project
+   Getting Started: Installation
+   How to use
 
 
 
