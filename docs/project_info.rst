@@ -1,8 +1,8 @@
 Projet info
 ======================================
 .. image:: matplotlib.png
-   :width: 200px
-   :height: 100px
+   :width: 500px
+   :height: 200px
    :scale: 100 %
    :alt: alternate text
    :align: center
