@@ -14,7 +14,7 @@ Welcome to MIA-Visual's documentation!
    :maxdepth: 2 
    :caption: Page:
    
-   About the Project
+   About_the_Project
 
 Indices and tables
 ==================
