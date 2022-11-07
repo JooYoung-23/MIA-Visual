@@ -9,12 +9,12 @@ Welcome to MIA-Visual's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
-
+   
+project_info
 
 Indices and tables
 ==================
 
-* :ref:`project_info`
+* :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
