@@ -10,3 +10,4 @@ Main page
    :maxdepth: 2
    :caption: Contents:
    project_info
+.. _project_info:
