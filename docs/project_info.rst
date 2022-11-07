@@ -6,7 +6,7 @@
 Projet_info page
 ======================================
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
 **I.	Problem Statement**
@@ -22,7 +22,7 @@ Projet_info page
    Existing Open Source, Matplotlib offers a variety of visualization tools, but there are no tools for the  problem we are trying to solve. Therefore, if the function
    is implemented and provided to the corresponding library, it is expected to be useful to other developers.
 
-**II. Mission Statement**
+**II.   Mission Statement**
   The three problems raised above can be solved using the following visualization tools:
   MIA_Visual (Model Intuitive Assessment_Visualization) is an open source project. ‘Learning curve analysis visualization’ helps determine if this model is reliable.
   ‘The visualization  of  the weight-update process’  helps to intuitively determine how the  weights  are being updated gradually.  Through the ‘visualization  of
@@ -36,6 +36,6 @@ Projet_info page
   2.	Visualize the machine learning step-by-step weight update process
   3.	Visualize classification model performance evaluation metrics and feature importance indicators
   
-**IV.	Target Development Language**
+**IV.  Target Development Language**
    -	Python
 
