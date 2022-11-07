@@ -1,4 +1,4 @@
-Projet info
+About_the_Project
 ======================================
 .. image:: matplotlib.png
    :width: 500px
