@@ -13,6 +13,7 @@ Welcome to MIA-Visual's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
    project_info
 
 
