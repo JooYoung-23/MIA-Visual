@@ -1,20 +1,22 @@
-Projet_info page
+Projet info
 ======================================
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-   project_info
+.. image:: matplotlib.png
+   :width: 200px
+   :height: 100px
+   :scale: 100 %
+   :alt: alternate text
+   :align: center
 
 **I.	Problem Statement**
 
    1. In order to understand the  reliability of the modeling, we need to understand the  complexity of the model  , but it is  difficult to interpret  the  exact
-   meaning of the model from numbers alone.
-   2.There is a problem that it is difficult to understand the weight update process of the machine learning process because only the final weight is known.
+   meaning of the model from numbers alone. <br>
+   2.There is a problem that it is difficult to understand the weight update process of the machine learning process because only the final weight is known./n
    3.the  problem is that  it is  not intuitive to compare  by result which   model is suitable for each piece of data, and it is difficult to figure out which
-   features are important.
+   features are important.<br>
    
    We think the above three problems can be solved through visualization. By reflecting the scale of the variables, it is possible to perform  a reliable analysis and
-   intuitively understand the process of  change of  successive values.
+   intuitively understand the process of  change of  successive values./n
    Existing Open Source, Matplotlib offers a variety of visualization tools, but there are no tools for the  problem we are trying to solve. Therefore, if the function
    is implemented and provided to the corresponding library, it is expected to be useful to other developers.
 
