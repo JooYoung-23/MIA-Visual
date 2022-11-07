@@ -10,4 +10,9 @@ Main page
    :maxdepth: 2
    :caption: Contents:
    project_info
-.. _project_info:
+Index, Glossary, and Search
+===========================
+
+* :ref:`genindex`
+* :ref:`project_info`
+* :ref:`search`
