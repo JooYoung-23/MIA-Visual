@@ -15,6 +15,8 @@ Welcome to MIA-Visual's documentation!
    :caption: Page:
    
    About_the_Project
+   Getting Started: Installation
+   How to use
 
 Indices and tables
 ==================
