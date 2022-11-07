@@ -9,11 +9,26 @@ Projet_info page
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   
-project_info
 
-Indices and tables
-==================
+**I.	Problem Statement**
 
-* :ref:`???`
-* :ref:`???`
+First,  in order to understand the  reliability of the modeling, we need to understand the  complexity of the model  , but it is  difficult to interpret  the  exact meaning of the model from numbers alone.
+Second, there is a problem that it is difficult to understand the weight update process of the machine learning process because only the final weight is known.
+Finally, the  problem is that  it is  not intuitive to compare  by result which   model is suitable for each piece of data, and it is difficult to figure out which features are important.
+I think the above three problems can be  solved through visualization. By reflecting the scale   of  the variables, it is  possible to perform  a reliable analysis and intuitively understand the process of  change of  successive values.
+
+Existing Open Source, Matplotlib offers a variety of visualization tools, but there are no tools for the  problem we are trying to solve. Therefore, if the function is implemented and provided to the corresponding library, it is expected to be useful to other developers.
+
+
+II. Mission Statement
+  The three problems raised above can be solved using the following visualization tools:
+
+
+III.	Features List
+  Based on original open source, we would like to add the following features. The features are described in the order in which we are planning to develop.
+  1.	Visualize the learning curve to validate model complexity
+  2.	Visualize the machine learning step-by-step weight update process
+  3.	Visualize classification model performance evaluation metrics and feature importance indicators
+IV.	Target Development Language
+   -	Python
+
