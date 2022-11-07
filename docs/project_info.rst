@@ -5,6 +5,9 @@
 
 Projet_info page
 ======================================
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
 
 **I.	Problem Statement**
 
