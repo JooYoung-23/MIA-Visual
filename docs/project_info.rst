@@ -1,13 +1,9 @@
-.. MIA-Visual documentation master file, created by
-   sphinx-quickstart on Tue Nov  1 17:54:54 2022.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Projet_info page
 ======================================
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :caption: Contents:
+   project_info
 
 **I.	Problem Statement**
 
