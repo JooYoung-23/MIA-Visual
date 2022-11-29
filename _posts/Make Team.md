@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Make Team"
+categories: misc
+---
+
+18011712 / Jeong Woo Cheol  (Data Science)
+Core member
+Developer / Reviewer
+Data Survey
+
+18011737 / Bae Chang Hyun (Data Science)
+Core member
+Developer / Reviewer
+Feature Extension
+
+18011738 / Jeon Kyu Bo (Data Science)
+Core member
+Developer / Reviewer
+Feature Extension
+
+18011746 / Yang Joo Yeong (Data Science)
+Core member
+Developer / Reviewer
+Github Management / Documentation
