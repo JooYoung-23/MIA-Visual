@@ -1,9 +1,5 @@
----
-" mark will appear in the home page
-# between the top bar and the list of recent posts.
-# To change the home page layout, edit the _layouts/home.html file.
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#
-layout: home
----
-The three problems raised above can be solved using the following visualization tools: MIA_Visual (Model Intuitive Assessment_Visualization) is an open source project. ‘Learning curve analysis visualization’ helps determine if this model is reliable. ‘The visualization of the weightupdate process’ helps to intuitively determine how the weights are being updated gradually. Through the ‘visualization of classification model performance evaluation indicators’, it is possible to help intuitively understand each evaluation indicator and to help select the appropriate model.
+Our project named MIA_Visual (Model Intuitive Evaluation_Visualization) is an open-source project to help select models of machine learning.
+The first of the three functions, 'learning curve analysis visualization', helps to determine the reliability of the model. 
+Second, 'weight update process visualization' helps intuitively determine how weights are gradually updated. 
+Third, through 'visualization of classification model performance evaluation indicators', it helps to intuitively understand each evaluation indicator and set an appropriate threshold.
+The above three functions help select a more performance model.
